@@ -24,7 +24,7 @@ Line 26: replace the "Exercise" column in the filtered data set with the activit
 Line 27: read in updated titles of means and stdevs with text file in working directory (also attached to this repo)  
 Line 28: update titles to filtered data frame  
 Line 29: use the "melt" method of reshape library to tell R which variables in the filtered data set are categorical  
-Line 30: now "cast" the melted data with the categorical variables "Subject" and "Exercise" to get the mean for each variable and each subject / exercise combination
+Line 30: now "cast" the melted data with the categorical variables "Subject" and "Exercise" to get the mean for each variable and each subject / exercise combination  
 Line 31: remove all unnecessary data  
 Line 32: write the tidied data to a file  
 
